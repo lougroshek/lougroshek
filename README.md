@@ -1,6 +1,6 @@
 ## Hi! I'm Lou!
 
-I'm a (web developer)[https://hire.lougroshek.com] and (PhD student)[https://english.wisc.edu/staff/groshek-amy-e/], and I'd love a chance to work with you on your next project! 
+I'm a [web developer](https://hire.lougroshek.com) and [PhD student](https://english.wisc.edu/staff/groshek-amy-e/), and I'd love a chance to work with you on your next project! 
 
 ### Specializations
 
