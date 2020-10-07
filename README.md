@@ -10,7 +10,8 @@ For more details, [have a look at my portfolio](https://hire.lougroshek.com).
 - Gatsby sites
 - React web applications, libraries, and components
 - Maps (Mapbox, Leaflet, Google Maps)
-- Instructional visualizations
+- Charts (eCharts, D3.js)
+- Interactive visualizations
 - Myeah I've built a lot of groovy things... 
 
 ### Even More Rarer Specializations
