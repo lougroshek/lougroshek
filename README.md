@@ -13,7 +13,7 @@ For more details, [have a look at my portfolio](https://hire.lougroshek.com).
 - Instructional visualizations
 - Myeah I've built a lot of groovy things... 
 
-### Even More Rarer specializations
+### Even More Rarer Specializations
 
 - Online learning
 - SCORM
