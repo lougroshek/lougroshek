@@ -2,7 +2,7 @@
 
 I'm a web developer and PhD student, and I'd love a chance to work with you on your next project! 
 
-### specializations
+### Specializations
 
 For more details, [have a look at my portfolio](https://hire.lougroshek.com).
 
