@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi! I'm Lou!
 
-<!--
-**lougroshek/lougroshek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer and PhD student, and I'd love a chance to work with you on your next project! 
 
-Here are some ideas to get you started:
+## Speciaizations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For more details, [have a look at my portfolio](https://hire.lougroshek.com).
+
+- HUGO sites
+- Gatsby sites
+- React web applications, libraries, and components
+- Maps (Mapbox, Leaflet, Google Maps)
+- Instructional visualizations
+- Myeah I've built a lot of groovy things... 
+
+## Even More Rarer Speciaizations
+
+- Online learning
+- SCORM
+- The Adapt Authoring Framework (for SCORM and XAPI) (Please use this and not Storyline. Thank you.)
+- Moodle
+- Moodle theme and plugin development
+
+## Contact
+
+lou@lougroshek.com
+
+
