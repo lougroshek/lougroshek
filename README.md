@@ -1,8 +1,8 @@
-### Hi! I'm Lou!
+## Hi! I'm Lou!
 
 I'm a web developer and PhD student, and I'd love a chance to work with you on your next project! 
 
-## Speciaizations
+### specializations
 
 For more details, [have a look at my portfolio](https://hire.lougroshek.com).
 
@@ -13,7 +13,7 @@ For more details, [have a look at my portfolio](https://hire.lougroshek.com).
 - Instructional visualizations
 - Myeah I've built a lot of groovy things... 
 
-## Even More Rarer Speciaizations
+### Even More Rarer specializations
 
 - Online learning
 - SCORM
@@ -21,7 +21,7 @@ For more details, [have a look at my portfolio](https://hire.lougroshek.com).
 - Moodle
 - Moodle theme and plugin development
 
-## Contact
+### Contact
 
 lou@lougroshek.com
 
