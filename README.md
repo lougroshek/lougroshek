@@ -4,7 +4,7 @@ I'm a [web developer](https://hire.lougroshek.com) and [PhD student](https://eng
 
 ### Specializations
 
-For more details, [have a look at my portfolio](https://hire.lougroshek.com).
+For more details, [have a look at my portfolio](https://lougroshek.com/portfolio/).
 
 - HUGO sites
 - Gatsby sites
