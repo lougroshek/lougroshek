@@ -14,6 +14,7 @@ For more details, [have a look at my portfolio](https://lougroshek.com/portfolio
 - Interactive visualizations
 - Data pipelines in Node.js and Python
 - Microservices using Docker and AWS Lambda, S3, and EKS
+- WordPress
 - AWS Certified Solutions Architect - Associate
 - Myeah I've built a lot of groovy things... 
 
@@ -22,7 +23,7 @@ For more details, [have a look at my portfolio](https://lougroshek.com/portfolio
 - Online learning
 - SCORM
 - The Adapt Authoring Framework (for SCORM and XAPI) (Please use this and not Storyline. Thank you.)
-- Moodle
+- Moodle (PHP, mySQL, PostgreSQL)
 - Moodle theme and plugin development
 
 ### Contact
