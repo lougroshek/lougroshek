@@ -1,6 +1,6 @@
 ## Hi! I'm Lou!
 
-I'm a [web developer](https://hire.lougroshek.com) and I'd love a chance to work with you on your next project! 
+I'm a web developer and I'd love a chance to work with you on your next project! 
 
 ### Specializations
 
