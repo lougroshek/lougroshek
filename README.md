@@ -1,6 +1,6 @@
 ## Hi! I'm Lou!
 
-I'm a [web developer](https://hire.lougroshek.com) and [PhD student](https://english.wisc.edu/staff/groshek-amy-e/), and I'd love a chance to work with you on your next project! 
+I'm a [web developer](https://hire.lougroshek.com) and I'd love a chance to work with you on your next project! 
 
 ### Specializations
 
@@ -12,9 +12,12 @@ For more details, [have a look at my portfolio](https://lougroshek.com/portfolio
 - Maps (Mapbox, Leaflet, Google Maps)
 - Charts (eCharts, D3.js)
 - Interactive visualizations
+- Data pipelines in Node.js and Python
+- Microservices using Docker and AWS Lambda, S3, and EKS
+- AWS Certified Solutions Architect - Associate
 - Myeah I've built a lot of groovy things... 
 
-### Even More Rarer Specializations
+### Even More Specialer Specializations
 
 - Online learning
 - SCORM
