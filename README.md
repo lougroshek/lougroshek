@@ -1,4 +1,4 @@
-## Hi! I'm Lou!
+## Hi! I'm Amy!
 
 I'm a web developer and I'd love a chance to work with you on your next project! 
 
