@@ -28,6 +28,6 @@ For more details, [have a look at my portfolio](https://lougroshek.com/portfolio
 
 ### Contact
 
-lou@lougroshek.com
+amy@amygroshek.com
 
 
